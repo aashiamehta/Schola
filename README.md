@@ -10,9 +10,9 @@ By: Aashia Mehta, Aakash Adesara, Aniket Mandalik
 ## Images
 
 Here are a few screenshots of the application:
-<img src='Resources/iphone.jpg'/>
-<img src='Resources/ipad.jpg'/>
-<img src='Resources/macbook.jpg'/>
+<img src='Resources/iphone.jpg'width="50%" height="50%"/>
+<img src='Resources/ipad.jpg'width="50%" height="50%/>
+<img src='Resources/macbook.jpg'width="50%" height="50%/>
 
 ## Notes
 
