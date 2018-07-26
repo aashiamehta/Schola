@@ -20,3 +20,5 @@ Here are a few screenshots of the application:
 
 College counselors nowadays are expensive and deliver generic information that can be deduced with a bit of research. We created a system that allows users to determine a good path for themselves to take in order to get into the colleges they want to go to. Because college decisions seem to take into account many aspects of a student's life, we had to boil the multiple factors down into what would be most important for a college. We had to weight scores differently based on the college's consideration of various factors like different weighting about grades, extracurriculars, and testing. Agreeing on a weighting system for extracurriculars, academics, and testing was the hardest, and we discussed the topic for over half an hour.
 
+At HackingEdu, we won Top 10 at the event, .Club $2500 Cash Prize, and the Rubicon Award.
+
